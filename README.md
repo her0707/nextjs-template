@@ -6,3 +6,4 @@
 - react v18.2.0
 - tailwindcss v3.2.6
 - jotai v2.0.1
+- axios v1.3.3
